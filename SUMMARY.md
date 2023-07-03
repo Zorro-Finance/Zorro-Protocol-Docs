@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [What is Zorro](README.md)
+* [How to use Zorro](how-to-use-zorro.md)
+* [Safety best practices](safety-best-practices.md)
+* [Zorro security](zorro-security.md)
+* [FAQ](faq.md)
